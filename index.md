@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to jzhoujr Pages
 
-You can use the [editor on GitHub](https://github.com/jzhoujr/jzhoujr.github.sg/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+These are just a collection of things that I am currently working on. Just to keep track of my code & to showcase some of my interests and skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Excel Searcher
 
-### Markdown
+I am exploring ways to search a complex & large excel spreadsheet for certain values.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Specifically right now, I have a list of SHA256 hashes of high-risk malwares, and I need to trawl an abnormally large log file (in .csv format) to see if there are any matches to the high-risk profiles.
 
-```markdown
-Syntax highlighted code block
+In the future this will be expanded to search for any value or pattern in said log file. Perhaps I should catalogue each log entry as a object and perform analytics.
 
-# Header 1
-## Header 2
-### Header 3
+Coded in Python 3.
 
-- Bulleted
-- List
+### Windows Registry Monitoring
 
-1. Numbered
-2. List
+Ideally I'd like to traverse through all the registry entries, keys, & values to monitor for any suspicious activity and/or anomalies. 
 
-**Bold** and _Italic_ and `Code` text
+I have not figured out if it's realistic to enumerate through every single registry entry or if I should just focus on a few high-risk areas. 
 
-[Link](url) and ![Image](src)
-```
+Also wondering if I should keep my code in Powershell or use Python 3.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### About jzhoujr
 
-### Jekyll Themes
+Educated in Computer Engineering.
+Working in a cyber-security department.
+Willing to write scripts & tools to automate tasks & make my job easier.
+Off-work I am interested in using & reviewing consumer tech devices.
+If I have the time & expertise I'd like to do some hardware tinkering.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jzhoujr/jzhoujr.github.sg/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact jzhoujr
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to hit me up on LinkedIn or just drop me an email!
