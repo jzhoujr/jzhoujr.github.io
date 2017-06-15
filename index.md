@@ -11,6 +11,7 @@ Specifically right now, I have a list of SHA256 hashes of high-risk malwares, an
 In the future this will be expanded to search for any value or pattern in said log file. Perhaps I should catalogue each log entry as a object and perform analytics.
 
 Coded in Python 3.
+(https://github.com/jzhoujr/SHA256checker)
 
 ### Windows Registry Monitoring
 
@@ -23,9 +24,13 @@ Also wondering if I should keep my code in Powershell or use Python 3.
 ### About jzhoujr
 
 Educated in Computer Engineering.
+
 Working in a cyber-security department.
+
 Willing to write scripts & tools to automate tasks & make my job easier.
+
 Off-work I am interested in using & reviewing consumer tech devices.
+
 If I have the time & expertise I'd like to do some hardware tinkering.
 
 ### Contact jzhoujr
