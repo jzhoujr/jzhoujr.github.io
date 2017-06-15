@@ -1,4 +1,4 @@
-## Welcome to jzhoujr Pages
+## Welcome to Justin's Page
 
 These are just a collection of things that I am currently working on. Just to keep track of my code & to showcase some of my interests and skills.
 
@@ -22,7 +22,7 @@ I have not figured out if it's realistic to enumerate through every single regis
 Also wondering if I should keep my code in Powershell or use Python 3.
 (https://github.com/jzhoujr/registryChecker)
 
-### About jzhoujr
+### About Justin
 
 Educated in Computer Engineering.
 
@@ -34,6 +34,6 @@ Off-work I am interested in using & reviewing consumer tech devices.
 
 If I have the time & expertise I'd like to do some hardware tinkering.
 
-### Contact jzhoujr
+### Contact Justin
 
-Feel free to hit me up on LinkedIn or just drop me an email!
+Feel free to hit me up on LinkedIn (https://www.linkedin.com/in/justinzhou/) or just drop me an email!
