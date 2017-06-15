@@ -20,6 +20,7 @@ Ideally I'd like to traverse through all the registry entries, keys, & values to
 I have not figured out if it's realistic to enumerate through every single registry entry or if I should just focus on a few high-risk areas. 
 
 Also wondering if I should keep my code in Powershell or use Python 3.
+(https://github.com/jzhoujr/registryChecker)
 
 ### About jzhoujr
 
